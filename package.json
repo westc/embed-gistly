@@ -1,0 +1,23 @@
+{
+  "name": "embed-gistly",
+  "version": "1.0.0",
+  "description": "Embedding GitHub Gists on steroids.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/westc/embed-gistly.git"
+  },
+  "keywords": [
+    "Gist",
+    "Embed"
+  ],
+  "author": "Chris West",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/westc/embed-gistly/issues"
+  },
+  "homepage": "https://github.com/westc/embed-gistly#readme"
+}
